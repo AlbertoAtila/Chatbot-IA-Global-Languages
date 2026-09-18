@@ -1,7 +1,10 @@
 # Chatbot especialista da Global Languages (Gemini + Google Colab)
 
-<!-- Repositório no GitHub. -->
+<!-- Repositório no GitHub -->
 (https://github.com/AlbertoAtila/Chatbot-IA-Global-Languages)
+
+<!-- Link do Youtube da Apresentação do Trabalho -->
+(https://youtu.be/Ix65DNlEJb8)
 
 Chatbot especialista que responde, **sem inventar informações**, a dúvidas sobre dados internos e não públicos da **Global Languages**, escola de idiomas fictícia com sede em Praia Grande/SP, na Baixada Santista. A atendente virtual **Lia** responde a **exatamente 3 perguntas** usando apenas a base de conhecimento do notebook. Depois da 3ª resposta, ela apresenta um breve resumo do que foi respondido e encerra a conversa.
 
